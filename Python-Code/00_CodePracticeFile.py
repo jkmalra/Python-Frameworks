@@ -14,4 +14,13 @@
 # print(name)
 # print(type(name))
 
+#
+# # class person:
+# def Name(name):
+#         print('hello, ', name)
+#
+# greet = input(Name('what is your name?'))
+# print(greet.capitalize())
+
+
 
